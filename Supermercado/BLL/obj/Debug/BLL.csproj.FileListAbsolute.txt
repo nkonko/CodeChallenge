@@ -1,0 +1,6 @@
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\BLL\bin\Debug\BLL.dll
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\BLL\bin\Debug\BLL.pdb
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\BLL\obj\Debug\BLL.dll
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,13 @@
+C:\Users\nicoa\documents\visual studio 2013\Projects\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\bin\Debug\BLL.dll
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\bin\Debug\BLL.pdb
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\obj\Debug\Supermercado.Properties.Resources.resources
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
+C:\Users\nicolas.azzara\Desktop\Supermercado\Supermercado\Supermercado\obj\Debug\Supermercado.ControlCajas.resources
